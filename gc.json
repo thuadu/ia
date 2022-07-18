@@ -1,0 +1,594 @@
+{
+  "entities": [
+    {
+      "entityId": "UMLS/C0005931",
+      "preferredTerm": "Bone and Bones",
+      "vocabularyCodes": [
+        "MSH/D001842"
+      ]
+    },
+    {
+      "entityId": "UMLS/C0007785",
+      "preferredTerm": "Cerebral Infarction",
+      "vocabularyCodes": [
+        "MSH/D002544",
+        "MTH/NOCODE",
+        "NCI/C50486",
+        "OMIM/601367",
+        "OMIM/MTHU001288",
+        "OMIM/MTHU037611"
+      ]
+    },
+    {
+      "entityId": "UMLS/C0009961",
+      "preferredTerm": "Coombs Test",
+      "vocabularyCodes": [
+        "LNC/LP32806-9",
+        "MSH/D003298",
+        "MTH/NOCODE",
+        "NCI/C25163"
+      ]
+    },
+    {
+      "entityId": "UMLS/C0018670",
+      "preferredTerm": "Head",
+      "vocabularyCodes": [
+        "FMA/7154",
+        "LNC/LA18116-6",
+        "LNC/LP199977-2",
+        "LNC/LP7281-1",
+        "LNC/MTHU001435",
+        "MSH/D006257",
+        "MTH/NOCODE",
+        "NCI/C12419",
+        "OMIM/MTHU000086"
+      ]
+    },
+    {
+      "entityId": "UMLS/C0018784",
+      "preferredTerm": "Sensorineural Hearing Loss (disorder)",
+      "vocabularyCodes": [
+        "HPO/HP:0000407",
+        "ICD9CM/389.1",
+        "ICD9CM/389.10",
+        "MSH/D006319",
+        "MTH/NOCODE",
+        "NCI/C26739",
+        "OMIM/MTHU000152",
+        "OMIM/MTHU000195",
+        "OMIM/MTHU001056",
+        "OMIM/MTHU001254",
+        "OMIM/MTHU024782",
+        "OMIM/MTHU032910",
+        "OMIM/MTHU053248"
+      ]
+    },
+    {
+      "entityId": "UMLS/C0024485",
+      "preferredTerm": "Magnetic Resonance Imaging",
+      "vocabularyCodes": [
+        "LNC/LA24328-9",
+        "LNC/LP206549-0",
+        "LNC/LP206574-8",
+        "LNC/LP6406-5",
+        "MEDLINEPLUS/3953",
+        "MSH/D008279",
+        "MTH/NOCODE",
+        "NCI/C16809"
+      ]
+    },
+    {
+      "entityId": "UMLS/C0027853",
+      "preferredTerm": "Neurologic Examination",
+      "vocabularyCodes": [
+        "ICD9CM/89.13",
+        "LNC/LP133273-5",
+        "LNC/MTHU041474",
+        "MSH/D009460",
+        "MTH/NOCODE",
+        "NCI/C81313"
+      ]
+    },
+    {
+      "entityId": "UMLS/C0031266",
+      "preferredTerm": "Structure of petrous part of temporal bone",
+      "vocabularyCodes": [
+        "FMA/52871",
+        "LNC/LP191622-2",
+        "LNC/LP199999-6",
+        "MSH/D010579",
+        "MTH/NOCODE",
+        "NCI/C62643"
+      ]
+    },
+    {
+      "entityId": "UMLS/C0205082",
+      "preferredTerm": "Severe (severity modifier)",
+      "vocabularyCodes": [
+        "HPO/HP:0012828",
+        "LNC/LA28568-6",
+        "LNC/LA32395-8",
+        "LNC/LA6750-9",
+        "MTH/NOCODE",
+        "NCI/C14158",
+        "NCI/C70667"
+      ]
+    },
+    {
+      "entityId": "UMLS/C0231790",
+      "preferredTerm": "Thompson's test",
+      "vocabularyCodes": [
+        "MTH/NOCODE"
+      ]
+    },
+    {
+      "entityId": "UMLS/C0262950",
+      "preferredTerm": "Skeletal bone",
+      "vocabularyCodes": [
+        "FMA/30317",
+        "FMA/5018",
+        "FMA/71324",
+        "LNC/LA4277-5",
+        "LNC/LP209032-4",
+        "LNC/LP212843-9",
+        "LNC/LP29159-8",
+        "LNC/LP29835-3",
+        "LNC/MTHU002077",
+        "MSH/D001842",
+        "MTH/NOCODE",
+        "NCI/C12366"
+      ]
+    },
+    {
+      "entityId": "UMLS/C0427055",
+      "preferredTerm": "Facial Paresis",
+      "vocabularyCodes": [
+        "HPO/HP:0007209",
+        "HPO/HP:0030319",
+        "ICD9CM/438.83",
+        "ICD9CM/781.94",
+        "LNC/LA24720-7",
+        "MSH/D005158",
+        "MTH/NOCODE",
+        "NCI/C78290",
+        "OMIM/MTHU000990",
+        "OMIM/MTHU036957",
+        "OMIM/MTHU037110",
+        "OMIM/MTHU038335"
+      ]
+    },
+    {
+      "entityId": "UMLS/C0699865",
+      "preferredTerm": "Barany's Test",
+      "vocabularyCodes": [
+        "MSH/D002150"
+      ]
+    },
+    {
+      "entityId": "UMLS/C1442209",
+      "preferredTerm": "XXX bone",
+      "vocabularyCodes": [
+        "LNC/LP212842-1",
+        "LNC/LP213599-6",
+        "LNC/LP40373-0",
+        "MTH/NOCODE"
+      ]
+    },
+    {
+      "entityId": "UMLS/C1519194",
+      "preferredTerm": "Schiller Test",
+      "vocabularyCodes": [
+        "NCI/C20643"
+      ]
+    },
+    {
+      "entityId": "UMLS/C1837850",
+      "preferredTerm": "No structural defects",
+      "vocabularyCodes": [
+        "OMIM/MTHU002137"
+      ]
+    },
+    {
+      "entityId": "UMLS/C4228772",
+      "preferredTerm": "Absence of structural defects",
+      "vocabularyCodes": [
+        "OMIM/MTHU051767"
+      ]
+    },
+    {
+      "entityId": "UMLS/C4285004",
+      "preferredTerm": "Head>Petrous part of temporal bone",
+      "vocabularyCodes": [
+        "LNC/LP234165-1",
+        "LNC/MTHU053761",
+        "MTH/NOCODE"
+      ]
+    },
+    {
+      "entityId": "UMLS/C5195352",
+      "preferredTerm": "Periaxonemal structural defects",
+      "vocabularyCodes": [
+        "OMIM/MTHU064781"
+      ]
+    },
+    {
+      "entityId": "UMLS/C5203119",
+      "preferredTerm": "Intensity and Distress 5",
+      "vocabularyCodes": [
+        "MTH/NOCODE",
+        "NCI/C159939"
+      ]
+    }
+  ],
+  "entityMentions": [
+    {
+      "mentionId": "1",
+      "type": "PROBLEM",
+      "text": {
+        "content": "hyperagglutinability",
+        "beginOffset": 30
+      },
+      "temporalAssessment": {
+        "value": "CURRENT",
+        "confidence": 0.9146379232406616
+      },
+      "certaintyAssessment": {
+        "value": "LIKELY",
+        "confidence": 0.9996751546859741
+      },
+      "subject": {
+        "value": "PATIENT",
+        "confidence": 0.9996469616889954
+      },
+      "confidence": 0.9876340627670288
+    },
+    {
+      "mentionId": "2",
+      "type": "PROBLEM",
+      "text": {
+        "content": "headeaches",
+        "beginOffset": 115
+      },
+      "temporalAssessment": {
+        "value": "CLINICAL_HISTORY",
+        "confidence": 0.983150839805603
+      },
+      "certaintyAssessment": {
+        "value": "LIKELY",
+        "confidence": 0.9993401169776917
+      },
+      "subject": {
+        "value": "PATIENT",
+        "confidence": 0.9996469616889954
+      },
+      "confidence": 0.9761714339256287
+    },
+    {
+      "mentionId": "3",
+      "type": "PROBLEM",
+      "text": {
+        "content": "facial weakness.",
+        "beginOffset": 130
+      },
+      "linkedEntities": [
+        {
+          "entityId": "UMLS/C0427055"
+        }
+      ],
+      "temporalAssessment": {
+        "value": "CLINICAL_HISTORY",
+        "confidence": 0.9822885394096375
+      },
+      "certaintyAssessment": {
+        "value": "LIKELY",
+        "confidence": 0.9991111755371094
+      },
+      "subject": {
+        "value": "PATIENT",
+        "confidence": 0.9994791150093079
+      },
+      "confidence": 0.8451084494590759
+    },
+    {
+      "mentionId": "4",
+      "type": "PROCEDURE",
+      "text": {
+        "content": "Neurologic examination",
+        "beginOffset": 146
+      },
+      "linkedEntities": [
+        {
+          "entityId": "UMLS/C0027853"
+        }
+      ],
+      "temporalAssessment": {
+        "value": "CURRENT",
+        "confidence": 0.9377922415733337
+      },
+      "certaintyAssessment": {
+        "value": "LIKELY",
+        "confidence": 0.9996200203895569
+      },
+      "subject": {
+        "value": "PATIENT",
+        "confidence": 0.9996469616889954
+      },
+      "confidence": 0.8247297406196594
+    },
+    {
+      "mentionId": "5",
+      "type": "PROBLEM",
+      "text": {
+        "content": "sensorineural hearing loss",
+        "beginOffset": 179
+      },
+      "linkedEntities": [
+        {
+          "entityId": "UMLS/C0018784"
+        }
+      ],
+      "temporalAssessment": {
+        "value": "CURRENT",
+        "confidence": 0.9538377523422241
+      },
+      "certaintyAssessment": {
+        "value": "LIKELY",
+        "confidence": 0.9943811297416687
+      },
+      "subject": {
+        "value": "PATIENT",
+        "confidence": 0.9996985197067261
+      },
+      "confidence": 0.8512199521064758
+    },
+    {
+      "mentionId": "6",
+      "type": "PROCEDURE",
+      "text": {
+        "content": "Weber's test",
+        "beginOffset": 229
+      },
+      "linkedEntities": [
+        {
+          "entityId": "UMLS/C0009961"
+        },
+        {
+          "entityId": "UMLS/C0231790"
+        },
+        {
+          "entityId": "UMLS/C0699865"
+        },
+        {
+          "entityId": "UMLS/C1519194"
+        }
+      ],
+      "temporalAssessment": {
+        "value": "CURRENT",
+        "confidence": 0.892995297908783
+      },
+      "certaintyAssessment": {
+        "value": "LIKELY",
+        "confidence": 0.9986292123794556
+      },
+      "subject": {
+        "value": "PATIENT",
+        "confidence": 0.9996505379676819
+      },
+      "confidence": 0.6809248924255371
+    },
+    {
+      "mentionId": "7",
+      "type": "PROCEDURE",
+      "text": {
+        "content": "Rinne's test",
+        "beginOffset": 276
+      },
+      "linkedEntities": [
+        {
+          "entityId": "UMLS/C0009961"
+        },
+        {
+          "entityId": "UMLS/C0231790"
+        },
+        {
+          "entityId": "UMLS/C0699865"
+        },
+        {
+          "entityId": "UMLS/C1519194"
+        }
+      ],
+      "temporalAssessment": {
+        "value": "CURRENT",
+        "confidence": 0.057481713593006134
+      },
+      "certaintyAssessment": {
+        "value": "LIKELY",
+        "confidence": 0.614020586013794
+      },
+      "subject": {
+        "value": "PATIENT",
+        "confidence": 0.057481713593006134
+      },
+      "confidence": 0.6830605864524841
+    },
+    {
+      "mentionId": "8",
+      "type": "ANATOMICAL_STRUCTURE",
+      "text": {
+        "content": "bone",
+        "beginOffset": 303
+      },
+      "linkedEntities": [
+        {
+          "entityId": "UMLS/C0005931"
+        },
+        {
+          "entityId": "UMLS/C0262950"
+        },
+        {
+          "entityId": "UMLS/C1442209"
+        }
+      ],
+      "confidence": 0.3254736661911011
+    },
+    {
+      "mentionId": "9",
+      "type": "PROCEDURE",
+      "text": {
+        "content": "Magnetic resonance imaging",
+        "beginOffset": 361
+      },
+      "linkedEntities": [
+        {
+          "entityId": "UMLS/C0024485"
+        }
+      ],
+      "temporalAssessment": {
+        "value": "CURRENT",
+        "confidence": 0.875777006149292
+      },
+      "certaintyAssessment": {
+        "value": "LIKELY",
+        "confidence": 0.9754694700241089
+      },
+      "subject": {
+        "value": "PATIENT",
+        "confidence": 0.9995689988136292
+      },
+      "confidence": 0.943371593952179
+    },
+    {
+      "mentionId": "10",
+      "type": "ANATOMICAL_STRUCTURE",
+      "text": {
+        "content": "head",
+        "beginOffset": 395
+      },
+      "linkedEntities": [
+        {
+          "entityId": "UMLS/C0018670"
+        }
+      ],
+      "confidence": 0.9869346022605896
+    },
+    {
+      "mentionId": "11",
+      "type": "SEVERITY",
+      "text": {
+        "content": "severe",
+        "beginOffset": 409
+      },
+      "linkedEntities": [
+        {
+          "entityId": "UMLS/C0205082"
+        },
+        {
+          "entityId": "UMLS/C5203119"
+        }
+      ],
+      "confidence": 0.9511078000068665
+    },
+    {
+      "mentionId": "12",
+      "type": "PROBLEM",
+      "text": {
+        "content": "structural defects",
+        "beginOffset": 416
+      },
+      "linkedEntities": [
+        {
+          "entityId": "UMLS/C1837850"
+        },
+        {
+          "entityId": "UMLS/C4228772"
+        },
+        {
+          "entityId": "UMLS/C5195352"
+        }
+      ],
+      "temporalAssessment": {
+        "value": "CURRENT",
+        "confidence": 0.9668787121772766
+      },
+      "certaintyAssessment": {
+        "value": "LIKELY",
+        "confidence": 0.9211487174034119
+      },
+      "subject": {
+        "value": "PATIENT",
+        "confidence": 0.9994053244590759
+      },
+      "confidence": 0.942207932472229
+    },
+    {
+      "mentionId": "13",
+      "type": "ANATOMICAL_STRUCTURE",
+      "text": {
+        "content": "petrous temporal bone",
+        "beginOffset": 448
+      },
+      "linkedEntities": [
+        {
+          "entityId": "UMLS/C0031266"
+        },
+        {
+          "entityId": "UMLS/C4285004"
+        }
+      ],
+      "confidence": 0.9059150815010071
+    },
+    {
+      "mentionId": "14",
+      "type": "PROBLEM",
+      "text": {
+        "content": "cerebral infarction",
+        "beginOffset": 488
+      },
+      "linkedEntities": [
+        {
+          "entityId": "UMLS/C0007785"
+        }
+      ],
+      "temporalAssessment": {
+        "value": "CURRENT",
+        "confidence": 0.9000535011291504
+      },
+      "certaintyAssessment": {
+        "value": "UNLIKELY",
+        "confidence": 0.8827894926071167
+      },
+      "subject": {
+        "value": "PATIENT",
+        "confidence": 0.9992963671684265
+      },
+      "confidence": 0.9720190763473511
+    }
+  ],
+  "relationships": [
+    {
+      "subjectId": "12",
+      "objectId": "11",
+      "confidence": 0.9903370141983032
+    },
+    {
+      "subjectId": "12",
+      "objectId": "13",
+      "confidence": 0.9363439083099365
+    },
+    {
+      "subjectId": "12",
+      "objectId": "9",
+      "confidence": 0.9584347009658813
+    },
+    {
+      "subjectId": "5",
+      "objectId": "4",
+      "confidence": 0.9841044545173645
+    },
+    {
+      "subjectId": "9",
+      "objectId": "10",
+      "confidence": 0.9928172826766968
+    }
+  ]
+}

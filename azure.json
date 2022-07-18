@@ -1,0 +1,947 @@
+{
+    "documents": [
+        {
+            "id": "id__376",
+            "entities": [
+                {
+                    "offset": 2,
+                    "length": 11,
+                    "text": "12-year old",
+                    "category": "Age",
+                    "confidenceScore": 1
+                },
+                {
+                    "offset": 14,
+                    "length": 4,
+                    "text": "girl",
+                    "category": "Gender",
+                    "confidenceScore": 1,
+                    "name": "Woman",
+                    "links": [
+                        {
+                            "dataSource": "UMLS",
+                            "id": "C0043210"
+                        },
+                        {
+                            "dataSource": "AOD",
+                            "id": "0000014451"
+                        },
+                        {
+                            "dataSource": "CCPSS",
+                            "id": "0018392"
+                        },
+                        {
+                            "dataSource": "CHV",
+                            "id": "0000013181"
+                        },
+                        {
+                            "dataSource": "LCH",
+                            "id": "U005036"
+                        },
+                        {
+                            "dataSource": "LCH_NW",
+                            "id": "sh85147274"
+                        },
+                        {
+                            "dataSource": "MEDLINEPLUS",
+                            "id": "4"
+                        },
+                        {
+                            "dataSource": "MSH",
+                            "id": "D014930"
+                        },
+                        {
+                            "dataSource": "PSY",
+                            "id": "23450"
+                        },
+                        {
+                            "dataSource": "RCD",
+                            "id": "Ua0Wg"
+                        },
+                        {
+                            "dataSource": "SNM",
+                            "id": "E-4957"
+                        },
+                        {
+                            "dataSource": "SNMI",
+                            "id": "L-85B00"
+                        },
+                        {
+                            "dataSource": "SNOMEDCT_US",
+                            "id": "224526002"
+                        }
+                    ]
+                },
+                {
+                    "offset": 30,
+                    "length": 20,
+                    "text": "hyperagglutinability",
+                    "category": "SymptomOrSign",
+                    "confidenceScore": 0.82
+                },
+                {
+                    "offset": 69,
+                    "length": 20,
+                    "text": "emergency department",
+                    "category": "CareEnvironment",
+                    "confidenceScore": 1
+                },
+                {
+                    "offset": 97,
+                    "length": 6,
+                    "text": "2-week",
+                    "category": "Time",
+                    "confidenceScore": 1
+                },
+                {
+                    "offset": 115,
+                    "length": 10,
+                    "text": "headeaches",
+                    "category": "SymptomOrSign",
+                    "confidenceScore": 1
+                },
+                {
+                    "offset": 130,
+                    "length": 15,
+                    "text": "facial weakness",
+                    "category": "SymptomOrSign",
+                    "confidenceScore": 1,
+                    "name": "Facial Paresis",
+                    "links": [
+                        {
+                            "dataSource": "UMLS",
+                            "id": "C0427055"
+                        },
+                        {
+                            "dataSource": "CCPSS",
+                            "id": "0041754"
+                        },
+                        {
+                            "dataSource": "CHV",
+                            "id": "0000033671"
+                        },
+                        {
+                            "dataSource": "CST",
+                            "id": "PARALYSIS FACIAL"
+                        },
+                        {
+                            "dataSource": "DXP",
+                            "id": "U001406"
+                        },
+                        {
+                            "dataSource": "HPO",
+                            "id": "HP:0030319"
+                        },
+                        {
+                            "dataSource": "ICD10CM",
+                            "id": "R29.810"
+                        },
+                        {
+                            "dataSource": "ICD9CM",
+                            "id": "781.94"
+                        },
+                        {
+                            "dataSource": "ICPC2P",
+                            "id": "N18001"
+                        },
+                        {
+                            "dataSource": "LNC",
+                            "id": "LA24720-7"
+                        },
+                        {
+                            "dataSource": "MDR",
+                            "id": "10051267"
+                        },
+                        {
+                            "dataSource": "MEDCIN",
+                            "id": "283575"
+                        },
+                        {
+                            "dataSource": "MSH",
+                            "id": "D005158"
+                        },
+                        {
+                            "dataSource": "MTHICD9",
+                            "id": "438.83"
+                        },
+                        {
+                            "dataSource": "NCI",
+                            "id": "C78290"
+                        },
+                        {
+                            "dataSource": "NCI_CTCAE",
+                            "id": "E12664"
+                        },
+                        {
+                            "dataSource": "OMIM",
+                            "id": "MTHU037110"
+                        },
+                        {
+                            "dataSource": "RCD",
+                            "id": "X76nB"
+                        },
+                        {
+                            "dataSource": "SNMI",
+                            "id": "DA-4102D"
+                        },
+                        {
+                            "dataSource": "SNOMEDCT_US",
+                            "id": "95666008"
+                        }
+                    ]
+                },
+                {
+                    "offset": 146,
+                    "length": 22,
+                    "text": "Neurologic examination",
+                    "category": "ExaminationName",
+                    "confidenceScore": 1,
+                    "name": "Neurologic Examination",
+                    "links": [
+                        {
+                            "dataSource": "UMLS",
+                            "id": "C0027853"
+                        },
+                        {
+                            "dataSource": "AIR",
+                            "id": "U000054"
+                        },
+                        {
+                            "dataSource": "AOD",
+                            "id": "0000007592"
+                        },
+                        {
+                            "dataSource": "CHV",
+                            "id": "0000008642"
+                        },
+                        {
+                            "dataSource": "CSP",
+                            "id": "2042-6433"
+                        },
+                        {
+                            "dataSource": "ICD10AM",
+                            "id": "96008-00"
+                        },
+                        {
+                            "dataSource": "ICD9CM",
+                            "id": "89.13"
+                        },
+                        {
+                            "dataSource": "ICNP",
+                            "id": "10036772"
+                        },
+                        {
+                            "dataSource": "LCH",
+                            "id": "U003191"
+                        },
+                        {
+                            "dataSource": "LCH_NW",
+                            "id": "sh85091131"
+                        },
+                        {
+                            "dataSource": "LNC",
+                            "id": "LP133273-5"
+                        },
+                        {
+                            "dataSource": "MDR",
+                            "id": "10050318"
+                        },
+                        {
+                            "dataSource": "MEDCIN",
+                            "id": "8202"
+                        },
+                        {
+                            "dataSource": "MSH",
+                            "id": "D009460"
+                        },
+                        {
+                            "dataSource": "NCI",
+                            "id": "C81313"
+                        },
+                        {
+                            "dataSource": "NCI_CTRP",
+                            "id": "C81313"
+                        },
+                        {
+                            "dataSource": "NCI_NCI-GLOSS",
+                            "id": "CDR0000322871"
+                        },
+                        {
+                            "dataSource": "NCI_NICHD",
+                            "id": "C81313"
+                        },
+                        {
+                            "dataSource": "PCDS",
+                            "id": "ORC_03000.00"
+                        },
+                        {
+                            "dataSource": "RCD",
+                            "id": "Ua1SV"
+                        },
+                        {
+                            "dataSource": "SNM",
+                            "id": "P-8002"
+                        },
+                        {
+                            "dataSource": "SNMI",
+                            "id": "P2-90100"
+                        },
+                        {
+                            "dataSource": "SNOMEDCT_US",
+                            "id": "84728005"
+                        }
+                    ]
+                },
+                {
+                    "offset": 179,
+                    "length": 26,
+                    "text": "sensorineural hearing loss",
+                    "category": "Diagnosis",
+                    "confidenceScore": 0.85,
+                    "name": "Sensorineural Hearing Loss (disorder)",
+                    "links": [
+                        {
+                            "dataSource": "UMLS",
+                            "id": "C0018784"
+                        },
+                        {
+                            "dataSource": "BI",
+                            "id": "BI00649"
+                        },
+                        {
+                            "dataSource": "CCPSS",
+                            "id": "0009243"
+                        },
+                        {
+                            "dataSource": "CHV",
+                            "id": "0000005863"
+                        },
+                        {
+                            "dataSource": "CSP",
+                            "id": "0977-6000"
+                        },
+                        {
+                            "dataSource": "DXP",
+                            "id": "U000771"
+                        },
+                        {
+                            "dataSource": "HPO",
+                            "id": "HP:0000407"
+                        },
+                        {
+                            "dataSource": "ICD10",
+                            "id": "H90.5"
+                        },
+                        {
+                            "dataSource": "ICD10AM",
+                            "id": "H90.5"
+                        },
+                        {
+                            "dataSource": "ICD10CM",
+                            "id": "H90.5"
+                        },
+                        {
+                            "dataSource": "ICD9CM",
+                            "id": "389.10"
+                        },
+                        {
+                            "dataSource": "ICPC2ICD10ENG",
+                            "id": "MTHU031070"
+                        },
+                        {
+                            "dataSource": "ICPC2P",
+                            "id": "H86002"
+                        },
+                        {
+                            "dataSource": "MDR",
+                            "id": "10040015"
+                        },
+                        {
+                            "dataSource": "MEDCIN",
+                            "id": "34075"
+                        },
+                        {
+                            "dataSource": "MSH",
+                            "id": "D006319"
+                        },
+                        {
+                            "dataSource": "MTHICD9",
+                            "id": "389.1"
+                        },
+                        {
+                            "dataSource": "NCI",
+                            "id": "C26739"
+                        },
+                        {
+                            "dataSource": "NCI_NICHD",
+                            "id": "C26739"
+                        },
+                        {
+                            "dataSource": "NCI_caDSR",
+                            "id": "C26739"
+                        },
+                        {
+                            "dataSource": "OMIM",
+                            "id": "MTHU000152"
+                        },
+                        {
+                            "dataSource": "PSY",
+                            "id": "46555"
+                        },
+                        {
+                            "dataSource": "QMR",
+                            "id": "Q0200087"
+                        },
+                        {
+                            "dataSource": "RCD",
+                            "id": "XE17N"
+                        },
+                        {
+                            "dataSource": "SNM",
+                            "id": "D-X535"
+                        },
+                        {
+                            "dataSource": "SNMI",
+                            "id": "DA-95200"
+                        },
+                        {
+                            "dataSource": "SNOMEDCT_US",
+                            "id": "60700002"
+                        }
+                    ]
+                },
+                {
+                    "offset": 213,
+                    "length": 10,
+                    "text": "right side",
+                    "category": "Direction",
+                    "confidenceScore": 0.99
+                },
+                {
+                    "offset": 229,
+                    "length": 12,
+                    "text": "Weber's test",
+                    "category": "ExaminationName",
+                    "confidenceScore": 1,
+                    "name": "Weber's test",
+                    "links": [
+                        {
+                            "dataSource": "UMLS",
+                            "id": "C0278247"
+                        },
+                        {
+                            "dataSource": "MDR",
+                            "id": "10047877"
+                        },
+                        {
+                            "dataSource": "MEDCIN",
+                            "id": "6680"
+                        },
+                        {
+                            "dataSource": "MTHICD9",
+                            "id": "95.43"
+                        },
+                        {
+                            "dataSource": "RCD",
+                            "id": "X77eh"
+                        },
+                        {
+                            "dataSource": "SNMI",
+                            "id": "F-F5540"
+                        },
+                        {
+                            "dataSource": "SNOMEDCT_US",
+                            "id": "62447004"
+                        }
+                    ]
+                },
+                {
+                    "offset": 242,
+                    "length": 12,
+                    "text": "lateralizing",
+                    "category": "MeasurementValue",
+                    "confidenceScore": 0.76
+                },
+                {
+                    "offset": 262,
+                    "length": 4,
+                    "text": "left",
+                    "category": "Direction",
+                    "confidenceScore": 0.98
+                },
+                {
+                    "offset": 276,
+                    "length": 12,
+                    "text": "Rinne's test",
+                    "category": "ExaminationName",
+                    "confidenceScore": 1,
+                    "name": "Rinne test",
+                    "links": [
+                        {
+                            "dataSource": "UMLS",
+                            "id": "C0278245"
+                        },
+                        {
+                            "dataSource": "CHV",
+                            "id": "0000027143"
+                        },
+                        {
+                            "dataSource": "MDR",
+                            "id": "10039190"
+                        },
+                        {
+                            "dataSource": "MEDCIN",
+                            "id": "6685"
+                        },
+                        {
+                            "dataSource": "RCD",
+                            "id": "X77eg"
+                        },
+                        {
+                            "dataSource": "SNMI",
+                            "id": "F-F5520"
+                        },
+                        {
+                            "dataSource": "SNOMEDCT_US",
+                            "id": "84636009"
+                        }
+                    ]
+                },
+                {
+                    "offset": 303,
+                    "length": 15,
+                    "text": "bone conduction",
+                    "category": "SymptomOrSign",
+                    "confidenceScore": 0.94,
+                    "name": "Bone Conduction",
+                    "links": [
+                        {
+                            "dataSource": "UMLS",
+                            "id": "C0005935"
+                        },
+                        {
+                            "dataSource": "CHV",
+                            "id": "0000002062"
+                        },
+                        {
+                            "dataSource": "CSP",
+                            "id": "0973-7729"
+                        },
+                        {
+                            "dataSource": "LCH",
+                            "id": "U000637"
+                        },
+                        {
+                            "dataSource": "LCH_NW",
+                            "id": "sh85015519"
+                        },
+                        {
+                            "dataSource": "MSH",
+                            "id": "D001844"
+                        },
+                        {
+                            "dataSource": "RCD",
+                            "id": "Xa0fF"
+                        },
+                        {
+                            "dataSource": "SNM",
+                            "id": "F-X5400"
+                        },
+                        {
+                            "dataSource": "SNMI",
+                            "id": "F-F5400"
+                        },
+                        {
+                            "dataSource": "SNOMEDCT_US",
+                            "id": "16476001"
+                        }
+                    ]
+                },
+                {
+                    "offset": 319,
+                    "length": 12,
+                    "text": "greater than",
+                    "category": "RelationalOperator",
+                    "confidenceScore": 0.9
+                },
+                {
+                    "offset": 332,
+                    "length": 14,
+                    "text": "air conduction",
+                    "category": "SymptomOrSign",
+                    "confidenceScore": 0.8,
+                    "name": "Air conduction",
+                    "links": [
+                        {
+                            "dataSource": "UMLS",
+                            "id": "C0234744"
+                        },
+                        {
+                            "dataSource": "RCD",
+                            "id": "Xa0fE"
+                        },
+                        {
+                            "dataSource": "SNM",
+                            "id": "F-X5330"
+                        },
+                        {
+                            "dataSource": "SNMI",
+                            "id": "F-F5330"
+                        },
+                        {
+                            "dataSource": "SNOMEDCT_US",
+                            "id": "9077000"
+                        }
+                    ]
+                },
+                {
+                    "offset": 354,
+                    "length": 5,
+                    "text": "right",
+                    "category": "Direction",
+                    "confidenceScore": 1
+                },
+                {
+                    "offset": 361,
+                    "length": 38,
+                    "text": "Magnetic resonance imaging of the head",
+                    "category": "ExaminationName",
+                    "confidenceScore": 0.98,
+                    "name": "MRI of head",
+                    "links": [
+                        {
+                            "dataSource": "UMLS",
+                            "id": "C0412674"
+                        },
+                        {
+                            "dataSource": "CHV",
+                            "id": "0000032919"
+                        },
+                        {
+                            "dataSource": "ICD10AM",
+                            "id": "90901-01"
+                        },
+                        {
+                            "dataSource": "MDR",
+                            "id": "10080742"
+                        },
+                        {
+                            "dataSource": "MEDCIN",
+                            "id": "15684"
+                        },
+                        {
+                            "dataSource": "RCD",
+                            "id": "X70oJ"
+                        },
+                        {
+                            "dataSource": "SNOMEDCT_US",
+                            "id": "241601008"
+                        }
+                    ]
+                },
+                {
+                    "offset": 409,
+                    "length": 6,
+                    "text": "severe",
+                    "category": "ConditionQualifier",
+                    "confidenceScore": 0.99
+                },
+                {
+                    "offset": 416,
+                    "length": 18,
+                    "text": "structural defects",
+                    "category": "SymptomOrSign",
+                    "confidenceScore": 0.99
+                },
+                {
+                    "offset": 442,
+                    "length": 5,
+                    "text": "right",
+                    "category": "Direction",
+                    "confidenceScore": 0.98
+                },
+                {
+                    "offset": 448,
+                    "length": 21,
+                    "text": "petrous temporal bone",
+                    "category": "BodyStructure",
+                    "confidenceScore": 0.99
+                },
+                {
+                    "offset": 488,
+                    "length": 19,
+                    "text": "cerebral infarction",
+                    "category": "Diagnosis",
+                    "confidenceScore": 0.99,
+                    "assertion": {
+                        "certainty": "negativePossible"
+                    },
+                    "name": "Cerebral Infarction",
+                    "links": [
+                        {
+                            "dataSource": "UMLS",
+                            "id": "C0007785"
+                        },
+                        {
+                            "dataSource": "AOD",
+                            "id": "0000006144"
+                        },
+                        {
+                            "dataSource": "CCSR_10",
+                            "id": "CIR020"
+                        },
+                        {
+                            "dataSource": "CCSR_ICD10CM",
+                            "id": "CIR020"
+                        },
+                        {
+                            "dataSource": "CHV",
+                            "id": "0000002664"
+                        },
+                        {
+                            "dataSource": "COSTAR",
+                            "id": "U000116"
+                        },
+                        {
+                            "dataSource": "CST",
+                            "id": "INFARCT CEREBR"
+                        },
+                        {
+                            "dataSource": "ICD10",
+                            "id": "I63.9"
+                        },
+                        {
+                            "dataSource": "ICD10AM",
+                            "id": "I63.9"
+                        },
+                        {
+                            "dataSource": "ICD10CM",
+                            "id": "I63.9"
+                        },
+                        {
+                            "dataSource": "ICPC2ICD10ENG",
+                            "id": "MTHU037926"
+                        },
+                        {
+                            "dataSource": "ICPC2P",
+                            "id": "K90010"
+                        },
+                        {
+                            "dataSource": "LCH_NW",
+                            "id": "sh85016341"
+                        },
+                        {
+                            "dataSource": "MDR",
+                            "id": "10008118"
+                        },
+                        {
+                            "dataSource": "MEDCIN",
+                            "id": "353951"
+                        },
+                        {
+                            "dataSource": "MSH",
+                            "id": "D002544"
+                        },
+                        {
+                            "dataSource": "NCI",
+                            "id": "C50486"
+                        },
+                        {
+                            "dataSource": "NCI_FDA",
+                            "id": "1771"
+                        },
+                        {
+                            "dataSource": "NCI_NICHD",
+                            "id": "C3390"
+                        },
+                        {
+                            "dataSource": "OMIM",
+                            "id": "MTHU001288"
+                        },
+                        {
+                            "dataSource": "RCD",
+                            "id": "Xa0kZ"
+                        },
+                        {
+                            "dataSource": "SNM",
+                            "id": "M-54700"
+                        },
+                        {
+                            "dataSource": "SNMI",
+                            "id": "D3-89400"
+                        },
+                        {
+                            "dataSource": "SNOMEDCT_US",
+                            "id": "432504007"
+                        },
+                        {
+                            "dataSource": "WHO",
+                            "id": "0445"
+                        }
+                    ]
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "TimeOfCondition",
+                    "entities": [
+                        {
+                            "ref": "#/results/documents/0/entities/2",
+                            "role": "Condition"
+                        },
+                        {
+                            "ref": "#/results/documents/0/entities/4",
+                            "role": "Time"
+                        }
+                    ]
+                },
+                {
+                    "relationType": "ExaminationFindsCondition",
+                    "entities": [
+                        {
+                            "ref": "#/results/documents/0/entities/7",
+                            "role": "Examination"
+                        },
+                        {
+                            "ref": "#/results/documents/0/entities/8",
+                            "role": "Condition"
+                        }
+                    ]
+                },
+                {
+                    "relationType": "DirectionOfExamination",
+                    "entities": [
+                        {
+                            "ref": "#/results/documents/0/entities/9",
+                            "role": "Direction"
+                        },
+                        {
+                            "ref": "#/results/documents/0/entities/10",
+                            "role": "Examination"
+                        }
+                    ]
+                },
+                {
+                    "relationType": "ValueOfExamination",
+                    "entities": [
+                        {
+                            "ref": "#/results/documents/0/entities/10",
+                            "role": "Examination"
+                        },
+                        {
+                            "ref": "#/results/documents/0/entities/11",
+                            "role": "Value"
+                        }
+                    ]
+                },
+                {
+                    "relationType": "DirectionOfExamination",
+                    "entities": [
+                        {
+                            "ref": "#/results/documents/0/entities/10",
+                            "role": "Examination"
+                        },
+                        {
+                            "ref": "#/results/documents/0/entities/12",
+                            "role": "Direction"
+                        }
+                    ]
+                },
+                {
+                    "relationType": "ExaminationFindsCondition",
+                    "entities": [
+                        {
+                            "ref": "#/results/documents/0/entities/13",
+                            "role": "Examination"
+                        },
+                        {
+                            "ref": "#/results/documents/0/entities/14",
+                            "role": "Condition"
+                        }
+                    ]
+                },
+                {
+                    "relationType": "ExaminationFindsCondition",
+                    "entities": [
+                        {
+                            "ref": "#/results/documents/0/entities/13",
+                            "role": "Examination"
+                        },
+                        {
+                            "ref": "#/results/documents/0/entities/16",
+                            "role": "Condition"
+                        }
+                    ]
+                },
+                {
+                    "relationType": "DirectionOfCondition",
+                    "entities": [
+                        {
+                            "ref": "#/results/documents/0/entities/16",
+                            "role": "Condition"
+                        },
+                        {
+                            "ref": "#/results/documents/0/entities/17",
+                            "role": "Direction"
+                        }
+                    ]
+                },
+                {
+                    "relationType": "ExaminationFindsCondition",
+                    "entities": [
+                        {
+                            "ref": "#/results/documents/0/entities/18",
+                            "role": "Examination"
+                        },
+                        {
+                            "ref": "#/results/documents/0/entities/20",
+                            "role": "Condition"
+                        }
+                    ]
+                },
+                {
+                    "relationType": "QualifierOfCondition",
+                    "entities": [
+                        {
+                            "ref": "#/results/documents/0/entities/19",
+                            "role": "Qualifier"
+                        },
+                        {
+                            "ref": "#/results/documents/0/entities/20",
+                            "role": "Condition"
+                        }
+                    ]
+                },
+                {
+                    "relationType": "BodySiteOfCondition",
+                    "entities": [
+                        {
+                            "ref": "#/results/documents/0/entities/20",
+                            "role": "Condition"
+                        },
+                        {
+                            "ref": "#/results/documents/0/entities/22",
+                            "role": "BodyStructure"
+                        }
+                    ]
+                },
+                {
+                    "relationType": "DirectionOfBodyStructure",
+                    "entities": [
+                        {
+                            "ref": "#/results/documents/0/entities/21",
+                            "role": "Direction"
+                        },
+                        {
+                            "ref": "#/results/documents/0/entities/22",
+                            "role": "BodyStructure"
+                        }
+                    ]
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-03-01"
+}
